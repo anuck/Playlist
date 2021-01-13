@@ -1,0 +1,23 @@
+{
+    "user1": {
+        "name": "pratik",
+        "password": "hello_123",
+        "profession": "student",
+        "age": 23,
+        "id": 1
+    },
+    "user2": {
+        "name": "aditya",
+        "password": "hello_456",
+        "profession": "developer",
+        "age": 25,
+        "id": 2
+    },
+    "user3": {
+        "name": "aarati",
+        "password": "hello_789",
+        "profession": "student",
+        "age": 26,
+        "id": 3
+    }
+}
